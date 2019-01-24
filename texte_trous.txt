@@ -14,14 +14,14 @@ Alors, la femme s'énerva et refusa à la fille de se rendre au bal. La douce fi
 
 
 
-Cendrillon les conseilla le mieux du monde, et s'offrit même à les coiffer ; ce qu'elles voulurent bien.  
+Cendrillon les conseilla le mieux du monde, et s'offrit même à les coiffer ; ce qu'elles voulurent bien.
 
 
 LOUBNA
 
 
 
-Enfin l'heureux jour arriva, elles partirent, et Cendrillon les suivit des yeux le plus longtemps qu'elle put ; lorsqu'elle ne les vit plus, elle se mit à pleurer. Sa marraine, qui la vit tout en pleurs, lui demanda ce qu'elle avait. Pour la calmer elle lui offra d'exausser un de ses souhait, Cendrillon reconforté souhaita de pouvoir se rendre également au bal pour danser. 
+Enfin l'heureux jour arriva, elles partirent, et Cendrillon les suivit des yeux le plus longtemps qu'elle put ; lorsqu'elle ne les vit plus, elle se mit à pleurer. Sa marraine, qui la vit tout en pleurs, lui demanda ce qu'elle avait. Pour la calmer elle lui offra d'exausser un de ses souhait, Cendrillon reconforté souhaita de pouvoir se rendre également au bal pour danser.
 
 
 THEODORE
@@ -59,7 +59,7 @@ Elle laissa tomber une de ses pantoufles de vair, que le prince ramassa bien soi
 
 
 
-Le prince mis alors la pantoufle en lieu sure et dès le lendeamain annonce qu'il épousera la première fille qu'il rencontrera et qui chaussera du 39(pointure de cendrillon),celui-ci étant incapable de se rappeler du visage de cendrillon après cette fin de soirée agitée.Quand ses deux sœurs revinrent du bal, Cendrillon leur demanda si elles s'étaient encore bien diverties, et si la belle dame y avait été. 
+Le prince mis alors la pantoufle en lieu sure et dès le lendeamain annonce qu'il épousera la première fille qu'il rencontrera et qui chaussera du 39(pointure de cendrillon),celui-ci étant incapable de se rappeler du visage de cendrillon après cette fin de soirée agitée.Quand ses deux sœurs revinrent du bal, Cendrillon leur demanda si elles s'étaient encore bien diverties, et si la belle dame y avait été.
 
 
 MAXIME
@@ -72,13 +72,9 @@ Il se rendit là où habitait Cendrillon et entra sans permission dans sa chambr
 
 Approchant la pantoufle de son petit pied, il vit qu'elle y entrait sans peine.
 
-<<<<<<< HEAD
-
 MORGANE
 
 La pantoufle appartenait donc à Cendrillon. Le fils du roi partit rejoindre Cendrillon.
-=======
-La pantoufle appartenait donc à Cendrillon. Le fils du roi partit rejoindre Cendrillon. 
->>>>>>> 235578782a5127968730ceebc3781d6af8cc1fea
+
 
 Il la trouva encore plus belle que jamais, et peu de jours après, il l'épousa.
